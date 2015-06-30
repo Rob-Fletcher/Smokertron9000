@@ -2,8 +2,9 @@
 
 ### Falling Cabinets ![fcapps](https://github.com/Rob-MFn-Fletcher/fcapps/blob/master/medium.jpg)
 ---
-This will be a BBQ/Smoker controller that will monitor and adjust the temperature
-automatically.
+
+This will be a BBQ/Smoker controller that will monitor and adjust the temperature automatically.
+
 ---
 ###Hardware
 For the controller unit I will use an Arduino. This will monitor the temp and
