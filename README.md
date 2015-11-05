@@ -22,3 +22,11 @@ I plan on using [HighCharts](http://www.highcharts.com) to display the informati
 streaming from the Arduino. This can display all temp information, and info about
 the state of vents/fans. This will allow tuning of the software for the ultimate
 in BBQ'ed meats.
+
+Can use POST to send info from arduino to web server. It can be read with PHP or
+Javascript I think. Maybe look into putting this information into a database.
+
+I have played around a bit with using a MySQL database to store and read information
+to the website. The PHP scripts in here are modified examples I found that I got 
+working. I dont necessarily like the idea of having to have a full database server
+installed. I would like it to be more standalone than that.
