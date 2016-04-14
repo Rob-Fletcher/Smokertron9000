@@ -1,4 +1,4 @@
-# Smokertron9000
+# Smokertron9000     [![Build Status](https://travis-ci.org/Rob-MFn-Fletcher/Smokertron9000.svg?branch=master)](https://travis-ci.org/Rob-MFn-Fletcher/Smokertron9000)
 
 ### Falling Cabinets ![fcapps](https://github.com/Rob-MFn-Fletcher/fcapps/blob/master/medium.jpg)
 ---
